@@ -7,6 +7,7 @@ import ProductcardDrop from "./productCardDrop";
 export default function Home() {
   return (
     <>
+
       <main className="flex max-w-screen  min-h-screen flex-col items-center justify-between md:pl-4">
         <header className="relative w-full">
           <h1 className="text-[9rem] md:text-[17rem] leading-none font-bold md:h-[90vh]">
@@ -17,7 +18,7 @@ export default function Home() {
             src="/2pac-PNG.png"
             width={700}
             height={700}
-            alt="Picture of the author"
+            alt="Picture of 2pac"
           />
           <nav>
             <ul className="flex pl-4 gap-10 font-light">
