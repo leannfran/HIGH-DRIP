@@ -15,7 +15,7 @@ export default function Home() {
           </h1>
           <Image
             className=" md:absolute top-0 right-0 -z-10  "
-            src="/heroimage.png"
+            src={require("/heroimage.png")}
             width={700}
             height={700}
             alt="Picture of 2pac"
