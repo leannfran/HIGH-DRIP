@@ -15,7 +15,7 @@ export default function Home() {
           </h1>
           <Image
             className=" md:absolute top-0 right-0 -z-10  "
-            src={require("/heroimage.png")}
+            src="https://firebasestorage.googleapis.com/v0/b/future-landing.appspot.com/o/heroimg.png?alt=media&token=386f0e01-61ec-4156-a6b0-9c8f54e1f1f0"
             width={700}
             height={700}
             alt="Picture of 2pac"
