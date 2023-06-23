@@ -46,21 +46,21 @@ export default function Home() {
           <div className="gap-8 flex flex-col md:flex-row items-center ">
             <Productcard
               name={"2PAC"}
-              precio={"11,500.00"}
+              precio={"7,500.00"}
               imgLink={"/remera-2pac.png"}
               type={"OverSize"}
 
             />
             <Productcard
               name={"NOTORIOUS BIG"}
-              precio={"12.000"}
+              precio={"7.000"}
               imgLink={"/remera-bigpopa.png"}
               type={"OverSize"}
 
             />
             <Productcard
               name={"RODMAN FACE"}
-              precio={"12.000"}
+              precio={"7.500"}
               imgLink={"/remera-rodman.png"}
               type={"OverSize"}
 
